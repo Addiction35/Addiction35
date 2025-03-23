@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack software developer | DevOps engineer
 ----------------------------------------------
 
-* 🌍  I'm based in Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [brianmanoti254@gmail.com](mailto:brianmanoti254@gmail.com)
-* 🧠  I'm learning Next.js and angular
+* 🧠  I'm learning laravel and elixir
 
 <a href="https://www.x.com/Addiction254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Addiction254?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
